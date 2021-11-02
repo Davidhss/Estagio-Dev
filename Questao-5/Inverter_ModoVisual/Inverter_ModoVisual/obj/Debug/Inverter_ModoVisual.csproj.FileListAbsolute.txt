@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoVisual\Inverter_ModoVisual\bin\Debug\Inverter_ModoVisual.exe.config
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoVisual\Inverter_ModoVisual\bin\Debug\Inverter_ModoVisual.exe
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoVisual\Inverter_ModoVisual\bin\Debug\Inverter_ModoVisual.pdb
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoVisual\Inverter_ModoVisual\obj\Debug\Inverter_ModoVisual.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoVisual\Inverter_ModoVisual\obj\Debug\Inverter_ModoVisual.frmInverse.resources
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoVisual\Inverter_ModoVisual\obj\Debug\Inverter_ModoVisual.Properties.Resources.resources
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoVisual\Inverter_ModoVisual\obj\Debug\Inverter_ModoVisual.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoVisual\Inverter_ModoVisual\obj\Debug\Inverter_ModoVisual.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoVisual\Inverter_ModoVisual\obj\Debug\Inverter_ModoVisual.exe
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoVisual\Inverter_ModoVisual\obj\Debug\Inverter_ModoVisual.pdb

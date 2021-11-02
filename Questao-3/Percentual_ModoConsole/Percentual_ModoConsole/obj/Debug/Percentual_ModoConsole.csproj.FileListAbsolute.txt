@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoConsole\Percentual_ModoConsole\bin\Debug\Percentual_ModoConsole.exe.config
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoConsole\Percentual_ModoConsole\bin\Debug\Percentual_ModoConsole.exe
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoConsole\Percentual_ModoConsole\bin\Debug\Percentual_ModoConsole.pdb
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoConsole\Percentual_ModoConsole\obj\Debug\Percentual_ModoConsole.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoConsole\Percentual_ModoConsole\obj\Debug\Percentual_ModoConsole.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoConsole\Percentual_ModoConsole\obj\Debug\Percentual_ModoConsole.exe
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoConsole\Percentual_ModoConsole\obj\Debug\Percentual_ModoConsole.pdb

@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoConsole\Inverter_ModoConsole\bin\Debug\Inverter_ModoConsole.exe.config
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoConsole\Inverter_ModoConsole\bin\Debug\Inverter_ModoConsole.exe
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoConsole\Inverter_ModoConsole\bin\Debug\Inverter_ModoConsole.pdb
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoConsole\Inverter_ModoConsole\obj\Debug\Inverter_ModoConsole.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoConsole\Inverter_ModoConsole\obj\Debug\Inverter_ModoConsole.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoConsole\Inverter_ModoConsole\obj\Debug\Inverter_ModoConsole.exe
+C:\Users\David\Desktop\Estagio\Questao-5\Inverter_ModoConsole\Inverter_ModoConsole\obj\Debug\Inverter_ModoConsole.pdb

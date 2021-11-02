@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoVisual\Percentual_ModoVisual\bin\Debug\Percentual_ModoVisual.exe.config
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoVisual\Percentual_ModoVisual\bin\Debug\Percentual_ModoVisual.exe
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoVisual\Percentual_ModoVisual\bin\Debug\Percentual_ModoVisual.pdb
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoVisual\Percentual_ModoVisual\obj\Debug\Percentual_ModoVisual.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoVisual\Percentual_ModoVisual\obj\Debug\Percentual_ModoVisual.frmPer.resources
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoVisual\Percentual_ModoVisual\obj\Debug\Percentual_ModoVisual.Properties.Resources.resources
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoVisual\Percentual_ModoVisual\obj\Debug\Percentual_ModoVisual.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoVisual\Percentual_ModoVisual\obj\Debug\Percentual_ModoVisual.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoVisual\Percentual_ModoVisual\obj\Debug\Percentual_ModoVisual.exe
+C:\Users\David\Desktop\Estagio\Questao-3\Percentual_ModoVisual\Percentual_ModoVisual\obj\Debug\Percentual_ModoVisual.pdb

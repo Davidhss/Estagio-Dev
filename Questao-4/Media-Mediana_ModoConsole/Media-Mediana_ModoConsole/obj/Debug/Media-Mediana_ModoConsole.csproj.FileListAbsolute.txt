@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Estagio\Questao-4\Media-Mediana_ModoConsole\Media-Mediana_ModoConsole\bin\Debug\Media-Mediana_ModoConsole.exe.config
+C:\Users\David\Desktop\Estagio\Questao-4\Media-Mediana_ModoConsole\Media-Mediana_ModoConsole\bin\Debug\Media-Mediana_ModoConsole.exe
+C:\Users\David\Desktop\Estagio\Questao-4\Media-Mediana_ModoConsole\Media-Mediana_ModoConsole\bin\Debug\Media-Mediana_ModoConsole.pdb
+C:\Users\David\Desktop\Estagio\Questao-4\Media-Mediana_ModoConsole\Media-Mediana_ModoConsole\obj\Debug\Media-Mediana_ModoConsole.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Estagio\Questao-4\Media-Mediana_ModoConsole\Media-Mediana_ModoConsole\obj\Debug\Media-Mediana_ModoConsole.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Estagio\Questao-4\Media-Mediana_ModoConsole\Media-Mediana_ModoConsole\obj\Debug\Media-Mediana_ModoConsole.exe
+C:\Users\David\Desktop\Estagio\Questao-4\Media-Mediana_ModoConsole\Media-Mediana_ModoConsole\obj\Debug\Media-Mediana_ModoConsole.pdb
