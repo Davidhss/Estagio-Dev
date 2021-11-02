@@ -1,0 +1,1 @@
+Exercícios baseados em um teste de lógica de programação. Projetos desenvolvidos na linguagem C# pelo VS no modo Console e Visual.
